@@ -1,0 +1,7 @@
+<?php
+
+define('DB_SERVER', 'php-database.cpo2zfvnbfk8.us-east-1.rds.amazonaws.com');
+define('DB_USERNAME', 'admin');
+define('DB_PASSWORD', '2025istheb');
+define('DB_DATABASE', 'php');
+?>
